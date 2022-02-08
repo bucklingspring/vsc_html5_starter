@@ -1,9 +1,9 @@
 {
-    "name": "html5-boilerplate",
-    "displayName": "HTML Boilerplate",
-    "publisher": "sidthesloth",
-    "description": "A basic HTML5 boilerplate snippet generator.",
-    "version": "1.1.1",
+    "name": "html5-starter",
+    "displayName": "HTML Starter",
+    "publisher": "bucklingspring",
+    "description": "A basic HTML5 starter snippet generator.",
+    "version": "1.0.0",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -13,14 +13,10 @@
     "engines": {
         "vscode": "^0.10.x"
     },
-    "homepage": "https://github.com/sidthesloth92/vsc_html5_boilerplate/blob/master/README.md",
-    "bugs": {
-        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate/issues",
-        "email": "sidthesloth92@hotmail.com"
-    },
+    "homepage": "https://github.com/bucklingspring/vsc_html5_starter/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate.git"
+        "url": "https://github.com/bucklingspring/vsc_html5_starter.git"
     },
     "categories": [
         "Snippets"
@@ -30,7 +26,8 @@
         "html5",
         "snippet",
         "snippets",
-        "boilerplate"
+        "boilerplate",
+        "starter"
     ],
     "contributes": {
         "snippets": [
